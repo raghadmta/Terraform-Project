@@ -1,6 +1,6 @@
 
 
-## [Terraform-Project](https://github.com/raghadmta/Terraform-modules/tree/main/Terraform%20Project)
+# Terraform-Project
 
 The Project is a custom module to deploy an application in us-east-1 and eu-west-2 regions. \
 Each country will have its own instance of software deployed on an AWS instance using the same architecture.
