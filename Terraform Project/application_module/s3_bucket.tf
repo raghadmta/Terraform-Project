@@ -5,4 +5,3 @@ resource "aws_s3_bucket" "duc_bucket" {
     Name = "Doc-tax"
   }
 }
-
